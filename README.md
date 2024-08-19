@@ -1,7 +1,7 @@
 # License-Plate-Recognition
 This project is a simple license plate recognition system that detects and reads license plates from images or video feeds. It is built using Python and leverages OpenCV for image processing and EasyOCR for text recognition.
 
-"C:\Users\labde\Desktop\download (2).png"
+![download (2)](https://github.com/user-attachments/assets/b8025633-df33-4d90-98e4-47c5e252e370)
 
 # Workflow
 ### Capture Image from Webcam or Upload it Directly from a Dataset
