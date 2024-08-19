@@ -6,7 +6,7 @@ This project is a simple license plate recognition system that detects and reads
 # Workflow
 ### Capture Image from Webcam or Upload it Directly from a Dataset
 
-You can either capture a live image from your webcam or upload an image directly from a dataset.
+You can either capture a live image from your webcam or (for a better results) upload an image directly from a dataset.
 
 ### Read in image, Grayscale and Blur
 
@@ -27,3 +27,11 @@ Reads the text from the isolated license plate using EasyOCR.
 ### Render Result
 
 Displays the original image with the detected license plate text overlaid.
+
+# Limitations
+Performance may vary depending on the quality of the input image.
+The system might struggle with plates in non-standard fonts or with significant damage.
+# Future Enhancements
+Integrate vehicle detection to create a full ANPR system.
+Implement tracking for video feeds.
+Improve OCR accuracy for different plate designs.
