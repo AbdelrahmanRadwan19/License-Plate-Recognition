@@ -30,8 +30,11 @@ Displays the original image with the detected license plate text overlaid.
 
 # Limitations
 Performance may vary depending on the quality of the input image.
+
 The system might struggle with plates in non-standard fonts or with significant damage.
 # Future Enhancements
 Integrate vehicle detection to create a full ANPR system.
+
 Implement tracking for video feeds.
+
 Improve OCR accuracy for different plate designs.
